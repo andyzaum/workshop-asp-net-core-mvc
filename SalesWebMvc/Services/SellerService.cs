@@ -2,7 +2,6 @@
 using SalesWebMvc.Models;
 using SalesWebMvc.Services.Exceptions;
 using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 
 namespace SalesWebMvc.Services
