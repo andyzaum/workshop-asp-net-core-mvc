@@ -98,6 +98,7 @@ Esta aplicação tem como objetivo a criação de um sistema de vendas para loja
 
 #### Exemplo:
 ```json
+}
 //...
 "AllowedHosts": "*",
   "ConnectionStrings": {
@@ -126,6 +127,7 @@ Esta aplicação tem como objetivo a criação de um sistema de vendas para loja
 
 #### Exemplo:
 ```json
+}
 //...
 "AllowedHosts": "*",
   "ConnectionStrings": {
